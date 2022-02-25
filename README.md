@@ -28,13 +28,24 @@
 
 ![](https://i.imgur.com/hXGBnkB.png)
 
-## Install
 
-    pip3 install requests pysocks
+## Install
     git clone https://github.com/Leeon123/CC-attack.git
     cd CC-attack
+    pip install -r requirements.txt
 
 ## Usage
-
-    python3 cc.py
+    python3 cc.py or python cc.py
     
+## Params
+
+    Choose Your Mode (default=cc)       Нажимаем Enter
+    Input the target url                Вводим адрес
+    Customize cookies                   Нажимаем Enter
+    Choose your socks mode              Нажимаем Enter
+    Threads                             Нажимаем Enter
+    Do you need to get socks list?      Нажимаем n
+    Socks5 Proxy file path              путь к proxy.txt
+    Do u need to check the socks list?  Нажимаем n
+    Input the Magnification             Нажимаем Enter
+    Enable boost mode[beta]             Нажимаем Enter
