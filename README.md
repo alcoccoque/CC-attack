@@ -49,3 +49,6 @@
     Do u need to check the socks list?  Нажимаем n
     Input the Magnification             Нажимаем Enter
     Enable boost mode[beta]             Нажимаем Enter
+
+## Free proxies
+    https://good-proxies.ru/ifree.php
